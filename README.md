@@ -64,8 +64,8 @@ Customize the scan:
 python3 spy_bugs.py \
 --target https://example.com \
 --authorized \
---delay 1 \
---max-pages 40
+--delay  \
+--max-pages 
 ```
 
 Optional SQL differential checks:
