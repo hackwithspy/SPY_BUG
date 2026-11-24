@@ -89,16 +89,16 @@ These reports contain scan statistics, findings, evidence indicators, and errors
 
 ```text
 SPY_BUG/
-├── spy_bugs.py
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── SECURITY.md
-├── .gitignore
-├── docs/
-├── screenshots/
-├── reports/
-└── tests/
+spy_bugs.py
+README.md
+requirements.txt
+LICENSE
+SECURITY.md
+.gitignore
+docs/
+screenshots/
+reports/
+tests/
 ```
 
 ## Disclaimer
