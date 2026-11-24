@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="spy-bugs-banner.png" alt="SPY_BUGS Banner" width="100%">
+</p>
 # 🕵️ SPY BUG
 ### Authorized Web Security Assessment & Vulnerability Scanner
 
