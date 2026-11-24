@@ -1,0 +1,38 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+*.pem
+*.key
+cookies.txt
+cookie_a.txt
+cookie_b.txt
+secrets.json
+
+# Logs
+*.log
+
+# Generated scan reports
+spy_bugs_report.html
+spy_bugs_report.json
+
+# Temporary files
+*.tmp
+*.bak
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
