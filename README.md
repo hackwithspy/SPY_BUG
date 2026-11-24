@@ -115,8 +115,12 @@ The developer is not responsible for misuse of this software.
 
 **Hack With Spy**
 
-GitHub: https://github.com/hackwithspy
+## 👨‍💻 Developer
 
----
+- **GitHub:** [@hackwithspy](https://github.com/hackwithspy)
+- **Instagram:** [@hacked_with_spy_](https://www.instagram.com/hacked_with_spy_/)
+- **Project:** [SPY_VULNWEB](https://github.com/hackwithspy/spy_vulnweb
+
+
 
 ⭐ If you find this project useful, consider starring the repository.
